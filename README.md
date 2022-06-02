@@ -29,3 +29,6 @@ Clique nos hyperlinks para ir direto para a pasta com o assunto:
  - [Pilhas Dinâmicas](./Estruturas/pilhaDinamica/);
  - [Filas Dinâmicas](./Estruturas/filaDinamica/);
  - [Tabela Hash (sem tratamento de colisão)](./Estruturas/tabelaHashSemColisao/);
+ - [Tabela Hash com tratamento de colisão](./Estruturas/tabelaHashComColisao/);
+ - [Árvore Binária de Busca / Binary Search Tree (ABB ou BST)](./Estruturas/ArvoreBinariaBusca/);
+ - [Árvore AVL](./Estruturas/ArvAvl/);
